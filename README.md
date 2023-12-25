@@ -82,5 +82,3 @@ SONG_DATA='s3://udacity-dend/song_data'
 
     $ python create_tables.py
 
-
-Reference: [AWS Redshift Doc](https://aws.amazon.com/redshift/getting-started/?p=rs&bttn=hero&exp=b)
